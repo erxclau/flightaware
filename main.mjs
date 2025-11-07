@@ -68,6 +68,12 @@ for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
 }
 
 writeFileSync(
-  new Date().toISOString().substring(0, 10) + ".csv",
+  new Date(
+    Date.parse(
+      new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
+    )
+  )
+    .toISOString()
+    .substring(0, 10) + ".csv",
   csvFormat(rows)
 );
