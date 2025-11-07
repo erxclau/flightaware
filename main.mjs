@@ -1,15 +1,14 @@
 import { csvFormat, tsvParse } from "d3-dsv";
 import { JSDOM } from "jsdom";
 import { readFileSync, writeFileSync } from "node:fs";
-import { exit } from "node:process";
 
 const airports = tsvParse(readFileSync("./airports.tsv").toString());
 
 const weekday = {
-  "https://www.flightaware.com/live/cancelled/minus3days/": "Monday",
-  "https://www.flightaware.com/live/cancelled/minus2days/": "Tuesday",
-  "https://www.flightaware.com/live/cancelled/yesterday/": "Wednesday",
-  "https://www.flightaware.com/live/cancelled/today/": "Thursday",
+  "https://www.flightaware.com/live/cancelled/minus3days/": -3,
+  "https://www.flightaware.com/live/cancelled/minus2days/": -2,
+  "https://www.flightaware.com/live/cancelled/yesterday/": -1,
+  "https://www.flightaware.com/live/cancelled/today/": 0,
 };
 
 const sleep = async (ms) => {
@@ -60,12 +59,15 @@ for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
       totalUsCancellations,
     };
 
-		console.log(row)
+    console.log(row);
 
     rows.push(row);
 
-    await sleep(1000);
+    await sleep(500);
   }
 }
 
-writeFileSync("./stats.csv", csvFormat(rows));
+writeFileSync(
+  new Date().toISOString().substring(0, 10) + ".csv",
+  csvFormat(rows)
+);
