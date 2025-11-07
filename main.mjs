@@ -20,7 +20,7 @@ const rows = [];
 
 for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
   const urlBases = [
-    "https://www.flightaware.com/live/cancelled/minus3days/",
+    "https://www.flightaware.com/live/cancelled/minus3days/", // TODO: unclear if Monday totals are accurate. they seem to decrease over time, perhaps due to time zones.
     "https://www.flightaware.com/live/cancelled/minus2days/",
     "https://www.flightaware.com/live/cancelled/yesterday/",
     "https://www.flightaware.com/live/cancelled/today/",
