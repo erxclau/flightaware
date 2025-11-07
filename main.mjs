@@ -63,7 +63,7 @@ for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
 
     rows.push(row);
 
-    await sleep(500);
+    await sleep(125);
   }
 }
 
