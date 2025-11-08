@@ -30,7 +30,8 @@ for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
 
     const response = await fetch(url);
     if (!response.ok) {
-      throw new Error(`${response.status}: ${response.statusText}`);
+      console.error(`${response.status}: ${response.statusText}`);
+      continue;
     }
 
     const html = await response.text();
@@ -63,7 +64,7 @@ for await (const airport of [{ icao: "", name: "All" }, ...airports]) {
 
     rows.push(row);
 
-    await sleep(125);
+    await sleep(250);
   }
 }
 
