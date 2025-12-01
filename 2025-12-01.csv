@@ -1,0 +1,160 @@
+icao,name,day,totalDelays,totalUsDelays,totalCancellations,totalUsCancellations
+,All,-3,26253,5015,961,109
+,All,-2,24692,9015,2663,1979
+,All,-1,28315,12008,1408,977
+,All,0,3837,378,262,93
+PANC,Anchorage International,-3,75,75,1,1
+PANC,Anchorage International,-2,87,87,3,3
+PANC,Anchorage International,-1,56,56,3,3
+PANC,Anchorage International,0,22,22,2,2
+KATL,Hartsfield-Jackson Atlanta International,-3,240,240,3,3
+KATL,Hartsfield-Jackson Atlanta International,-2,545,545,41,41
+KATL,Hartsfield-Jackson Atlanta International,-1,948,948,39,39
+KATL,Hartsfield-Jackson Atlanta International,0,27,27,13,13
+KBOS,Boston Logan International,-3,186,186,2,2
+KBOS,Boston Logan International,-2,242,242,34,34
+KBOS,Boston Logan International,-1,455,455,67,67
+KBOS,Boston Logan International,0,8,8,6,6
+KBWI,Baltimore-Washington International Marshall,-3,85,85,1,1
+KBWI,Baltimore-Washington International Marshall,-2,204,204,23,23
+KBWI,Baltimore-Washington International Marshall,-1,312,312,8,8
+KBWI,Baltimore-Washington International Marshall,0,7,7,0,0
+KCLT,Charlotte Douglas International,-3,303,303,14,14
+KCLT,Charlotte Douglas International,-2,292,292,52,52
+KCLT,Charlotte Douglas International,-1,595,595,14,14
+KCLT,Charlotte Douglas International,0,3,3,1,1
+KCVG,Cincinnati/Northern Kentucky International,-3,42,42,1,1
+KCVG,Cincinnati/Northern Kentucky International,-2,86,86,19,19
+KCVG,Cincinnati/Northern Kentucky International,-1,132,132,10,10
+KCVG,Cincinnati/Northern Kentucky International,0,1,1,0,0
+KDAL,Dallas Love Field,-3,72,72,0,0
+KDAL,Dallas Love Field,-2,163,163,10,10
+KDAL,Dallas Love Field,-1,196,196,1,1
+KDAL,Dallas Love Field,0,3,3,0,0
+KDCA,Reagan National,-3,168,168,1,1
+KDCA,Reagan National,-2,188,188,41,41
+KDCA,Reagan National,-1,468,468,20,20
+KDCA,Reagan National,0,4,4,1,1
+KDEN,Denver International,-3,361,361,3,3
+KDEN,Denver International,-2,671,671,46,46
+KDEN,Denver International,-1,834,834,22,22
+KDEN,Denver International,0,15,15,0,0
+KDFW,Dallas-Fort Worth International,-3,668,668,11,11
+KDFW,Dallas-Fort Worth International,-2,1061,1061,86,86
+KDFW,Dallas-Fort Worth International,-1,833,833,21,21
+KDFW,Dallas-Fort Worth International,0,10,10,5,5
+KDTW,Detroit Metropolitan Wayne County,-3,96,96,1,1
+KDTW,Detroit Metropolitan Wayne County,-2,384,384,66,66
+KDTW,Detroit Metropolitan Wayne County,-1,483,483,59,59
+KDTW,Detroit Metropolitan Wayne County,0,3,3,3,3
+KEWR,Newark Liberty International,-3,181,181,3,3
+KEWR,Newark Liberty International,-2,284,284,26,26
+KEWR,Newark Liberty International,-1,516,516,35,35
+KEWR,Newark Liberty International,0,7,7,6,6
+KFLL,Fort Lauderdale-Hollywood International,-3,152,152,3,3
+KFLL,Fort Lauderdale-Hollywood International,-2,315,315,16,16
+KFLL,Fort Lauderdale-Hollywood International,-1,352,352,54,54
+KFLL,Fort Lauderdale-Hollywood International,0,9,9,10,10
+PHNL,Honolulu International,-3,63,63,2,2
+PHNL,Honolulu International,-2,90,90,4,4
+PHNL,Honolulu International,-1,91,91,3,3
+PHNL,Honolulu International,0,13,13,1,1
+KHOU,Houston Hobby,-3,32,32,0,0
+KHOU,Houston Hobby,-2,134,134,9,9
+KHOU,Houston Hobby,-1,145,145,3,3
+KHOU,Houston Hobby,0,3,3,0,0
+KIAD,Washington Dulles International,-3,142,142,4,4
+KIAD,Washington Dulles International,-2,194,194,13,13
+KIAD,Washington Dulles International,-1,290,290,6,6
+KIAD,Washington Dulles International,0,7,7,3,3
+KIAH,George Bush Houston Intercontinental,-3,174,174,6,6
+KIAH,George Bush Houston Intercontinental,-2,371,371,37,37
+KIAH,George Bush Houston Intercontinental,-1,472,472,8,8
+KIAH,George Bush Houston Intercontinental,0,5,5,2,2
+KIND,Indianapolis International,-3,42,42,2,2
+KIND,Indianapolis International,-2,121,121,29,29
+KIND,Indianapolis International,-1,173,173,13,13
+KIND,Indianapolis International,0,1,1,1,1
+KJFK,John F. Kennedy International,-3,189,189,4,4
+KJFK,John F. Kennedy International,-2,361,361,27,27
+KJFK,John F. Kennedy International,-1,464,464,80,80
+KJFK,John F. Kennedy International,0,19,19,13,13
+KLAS,Las Vegas Reid International,-3,151,151,2,2
+KLAS,Las Vegas Reid International,-2,276,276,23,23
+KLAS,Las Vegas Reid International,-1,380,380,10,10
+KLAS,Las Vegas Reid International,0,8,8,0,0
+KLAX,Los Angeles International,-3,278,278,3,3
+KLAX,Los Angeles International,-2,443,443,33,33
+KLAX,Los Angeles International,-1,510,510,26,26
+KLAX,Los Angeles International,0,27,27,3,3
+KLGA,LaGuardia Airport,-3,113,113,6,6
+KLGA,LaGuardia Airport,-2,257,257,37,37
+KLGA,LaGuardia Airport,-1,465,465,29,29
+KLGA,LaGuardia Airport,0,4,4,10,10
+KMCO,Orlando International,-3,210,210,2,2
+KMCO,Orlando International,-2,374,374,37,37
+KMCO,Orlando International,-1,454,454,30,30
+KMCO,Orlando International,0,5,5,1,1
+KMDW,Chicago Midway,-3,61,61,1,1
+KMDW,Chicago Midway,-2,116,116,248,248
+KMDW,Chicago Midway,-1,281,281,10,10
+KMDW,Chicago Midway,0,1,1,0,0
+KMEM,Memphis International,-3,19,19,0,0
+KMEM,Memphis International,-2,51,51,11,11
+KMEM,Memphis International,-1,86,86,8,8
+KMEM,Memphis International,0,0,0,0,0
+KMIA,Miami International,-3,257,257,9,9
+KMIA,Miami International,-2,321,321,26,26
+KMIA,Miami International,-1,477,477,6,6
+KMIA,Miami International,0,7,7,0,0
+KMSP,Minneapolis/St. Paul International,-3,103,103,7,7
+KMSP,Minneapolis/St. Paul International,-2,609,609,72,72
+KMSP,Minneapolis/St. Paul International,-1,464,464,22,22
+KMSP,Minneapolis/St. Paul International,0,1,1,1,1
+KOAK,Oakland International,-3,35,35,1,1
+KOAK,Oakland International,-2,66,66,3,3
+KONT,Ontario International,-1,56,56,1,1
+KONT,Ontario International,0,4,4,0,0
+KORD,Chicago O'Hare International,-3,638,638,12,12
+KORD,Chicago O'Hare International,-2,1061,1061,1293,1293
+KORD,Chicago O'Hare International,-1,1773,1773,486,486
+KORD,Chicago O'Hare International,0,21,25,25,25
+KPDX,Portland International,-3,100,100,0,0
+KPDX,Portland International,-2,105,105,7,7
+KPDX,Portland International,-1,99,99,4,4
+KPDX,Portland International,0,3,3,1,1
+KPHL,Philadelphia International,-3,126,126,2,2
+KPHL,Philadelphia International,-2,198,198,22,22
+KPHL,Philadelphia International,-1,338,338,12,12
+KPHL,Philadelphia International,0,7,7,3,3
+KPHX,Phoenix Sky Harbor International,-3,159,159,3,3
+KPHX,Phoenix Sky Harbor International,-2,393,393,48,48
+KPHX,Phoenix Sky Harbor International,-1,487,487,19,19
+KPHX,Phoenix Sky Harbor International,0,19,19,0,0
+KSAN,San Diego International,-3,150,150,0,0
+KSAN,San Diego International,-2,184,184,16,16
+KSAN,San Diego International,-1,250,250,9,9
+KSAN,San Diego International,0,16,16,1,1
+KSDF,Louisville International,-3,26,26,0,0
+KSDF,Louisville International,-2,40,40,19,19
+KSDF,Louisville International,-1,70,70,3,3
+KSDF,Louisville International,0,0,0,0,0
+KSEA,Seattle-Tacoma International,-3,135,135,5,5
+KSEA,Seattle-Tacoma International,-1,228,228,19,19
+KSEA,Seattle-Tacoma International,0,9,9,1,1
+KSFO,San Francisco International,-3,194,194,2,2
+KSFO,San Francisco International,-2,315,315,19,19
+KSFO,San Francisco International,-1,327,327,18,18
+KSFO,San Francisco International,0,25,25,2,2
+KSLC,Salt Lake City International,-3,70,70,0,0
+KSLC,Salt Lake City International,-2,144,144,9,9
+KSLC,Salt Lake City International,-1,279,279,4,4
+KSLC,Salt Lake City International,0,2,2,2,2
+KTEB,Teterboro,-3,0,0,0,0
+KTEB,Teterboro,-2,0,0,0,0
+KTEB,Teterboro,-1,1,1,0,0
+KTEB,Teterboro,0,0,0,0,0
+KTPA,Tampa International,-3,76,76,0,0
+KTPA,Tampa International,-2,181,181,26,26
+KTPA,Tampa International,-1,247,247,19,19
+KTPA,Tampa International,0,4,4,0,0
